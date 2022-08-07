@@ -21,7 +21,7 @@ img{
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-top: 150px !important;
+	margin-top: 100px !important;
 }
 
 /*Centers the content vertically using flexbox*/
