@@ -16,7 +16,7 @@ img{
 }
 
 #landing{
-	height: 78vh;
+	height: 79vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -30,13 +30,13 @@ img{
 	align-items: center;
 	flex-direction: column;
 	justify-content: center;
-	height: 80vh;
-	padding: 55px 0 55px 0;
+	height: 90vh;
+	padding: 65px 0px 65px 0px;
 }
 
 /*Removes the bullets of the ul*/
 ul{
-	list-style: none;
+	list-style-type: none;
 	padding: 0;
 }
 
@@ -64,3 +64,7 @@ h2{
    margin-top: 0vh;
    height: 5vh;
 }*/
+p{
+	font-size: 20px;
+	font-family: "Roboto", san-serif;
+}
