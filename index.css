@@ -16,12 +16,12 @@ img{
 }
 
 #landing{
-	height: 72vh;
+	height: 88vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-top: 150px !important;
+	margin-top: 190px !important;
 }
 
 /*Centers the content vertically using flexbox*/
@@ -30,7 +30,7 @@ img{
 	align-items: center;
 	flex-direction: column;
 	justify-content: center;
-	height: 90vh;
+	height: 105vh;
 	padding: 65px 0px 65px 0px;
 }
 
