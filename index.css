@@ -1,0 +1,66 @@
+*{
+	font-family:"Roboto", san-serif;
+}
+
+h1, h2{
+	font-family: "Montserrat", san-serif;
+}
+
+img{
+	height: ;
+	width: ;
+}
+
+.jumbotron{
+	background-color:transparent;
+}
+
+#landing{
+	height: 78vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 150px !important;
+}
+
+/*Centers the content vertically using flexbox*/
+#gallery{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	height: 80vh;
+	padding: 55px 0 55px 0;
+}
+
+/*Removes the bullets of the ul*/
+ul{
+	list-style: none;
+	padding: 0;
+}
+
+.bg-primary{
+	background-color: #057aa9 !important;
+}
+
+h2{
+	color: #057aa9;
+}
+
+.tools{
+	padding: 20px;
+	height: 210px;
+	border: 5px solid #fff;
+	margin: 20px;
+	width: 75%;
+	color: white;
+}
+
+/*hr{
+   width: 75%;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 0vh;
+   height: 5vh;
+}*/
